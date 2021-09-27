@@ -7,3 +7,6 @@ Switched-mode Power Distribution Board with 3 output voltages: 3.3V, 5V and 12V.
 
 'Tests' folder: Working PCB with output voltages measured by multimeters.
 ![MAURI_2](https://user-images.githubusercontent.com/77835086/131785099-0a230668-efdd-4e80-814a-8f9def4fdffd.PNG)
+
+
+![WorkingSona_ClosedView](https://user-images.githubusercontent.com/77835086/134903982-85ad55e0-45cd-4053-87d4-3ab7cfa80fd5.jpg)
